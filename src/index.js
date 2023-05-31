@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
         <AuthLayout>
-          <BrowserRouter basename="/YourPet-FrontEnd">
+          <BrowserRouter basename="/react_node_fs_61_Marina-Chuhlib">
             <ThemeProvider>
               <App />
             </ThemeProvider>
