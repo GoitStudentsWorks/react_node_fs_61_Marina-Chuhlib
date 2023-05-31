@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_61_Marina-Chuhlib/static/css/main.bf53aa9c.css",
-    "main.js": "/react_node_fs_61_Marina-Chuhlib/static/js/main.d7127a74.js",
+    "main.js": "/react_node_fs_61_Marina-Chuhlib/static/js/main.70fb8424.js",
     "static/css/938.a3bdda2e.chunk.css": "/react_node_fs_61_Marina-Chuhlib/static/css/938.a3bdda2e.chunk.css",
     "static/js/938.c57a9f48.chunk.js": "/react_node_fs_61_Marina-Chuhlib/static/js/938.c57a9f48.chunk.js",
     "static/css/339.ed163c1a.chunk.css": "/react_node_fs_61_Marina-Chuhlib/static/css/339.ed163c1a.chunk.css",
@@ -59,7 +59,7 @@
     "static/media/trash.svg": "/react_node_fs_61_Marina-Chuhlib/static/media/trash.ecf328bb6ccde13e3364ab2f4a8f1d3d.svg",
     "static/media/close.svg": "/react_node_fs_61_Marina-Chuhlib/static/media/close.f651fc886fa4d31a3c8de6c31d316c5d.svg",
     "main.bf53aa9c.css.map": "/react_node_fs_61_Marina-Chuhlib/static/css/main.bf53aa9c.css.map",
-    "main.d7127a74.js.map": "/react_node_fs_61_Marina-Chuhlib/static/js/main.d7127a74.js.map",
+    "main.70fb8424.js.map": "/react_node_fs_61_Marina-Chuhlib/static/js/main.70fb8424.js.map",
     "938.a3bdda2e.chunk.css.map": "/react_node_fs_61_Marina-Chuhlib/static/css/938.a3bdda2e.chunk.css.map",
     "938.c57a9f48.chunk.js.map": "/react_node_fs_61_Marina-Chuhlib/static/js/938.c57a9f48.chunk.js.map",
     "339.ed163c1a.chunk.css.map": "/react_node_fs_61_Marina-Chuhlib/static/css/339.ed163c1a.chunk.css.map",
@@ -84,6 +84,6 @@
   },
   "entrypoints": [
     "static/css/main.bf53aa9c.css",
-    "static/js/main.d7127a74.js"
+    "static/js/main.70fb8424.js"
   ]
 }
